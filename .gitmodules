@@ -4,3 +4,6 @@
 [submodule "dictionary"]
 	path = dictionary
 	url = ./dictionary
+[submodule "text_client"]
+	path = text_client
+	url = ./text_client
