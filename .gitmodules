@@ -1,3 +1,6 @@
 [submodule "hangman"]
 	path = hangman
 	url = ./hangman
+[submodule "dictionary"]
+	path = dictionary
+	url = ./dictionary
