@@ -1,0 +1,6 @@
+[submodule "submodules/dictionary"]
+	path = submodules/dictionary
+	url = ./dictionary
+[submodule "submodules/hangman"]
+	path = submodules/hangman
+	url = ./hangman
