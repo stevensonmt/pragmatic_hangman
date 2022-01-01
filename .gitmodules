@@ -7,3 +7,6 @@
 [submodule "text_client"]
 	path = text_client
 	url = ./text_client
+[submodule "computer_player"]
+	path = computer_player
+	url = ./computer_player
