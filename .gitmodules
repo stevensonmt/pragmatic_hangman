@@ -10,3 +10,6 @@
 [submodule "computer_player"]
 	path = computer_player
 	url = ./computer_player
+[submodule "b1"]
+	path = b1
+	url = ./b1
