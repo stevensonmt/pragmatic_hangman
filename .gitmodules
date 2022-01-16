@@ -13,3 +13,6 @@
 [submodule "b1"]
 	path = b1
 	url = ./b1
+[submodule "b2"]
+	path = b2
+	url = ./b2
